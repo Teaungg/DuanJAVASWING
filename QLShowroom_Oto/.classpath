@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="dist/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="dist/lib/beansbinding-1.2.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="dist/lib/javax.mail-api-1.6.2.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="dist/lib/mssql-jdbc-9.4.0.jre8.jar"/>
+	<classpathentry kind="lib" path="dist/lib/poi-4.0.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/poi-ooxml-4.0.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/poi-ooxml-schemas-4.0.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/xmlbeans-3.0.2.jar"/>
+	<classpathentry kind="lib" path="dist/lib/zxing-core-1.7.jar"/>
+	<classpathentry kind="lib" path="dist/lib/zxing-j2se-1.7.jar"/>
+	<classpathentry kind="lib" path="dist/QLShowroom_Oto.jar"/>
+	<classpathentry kind="lib" path="D:/Study_Fpoly_PS17792/HK5/KiemThuNangCao/TaiNguyen/selenium-server-standalone-3.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/Study_Fpoly_PS17792/HK5/KiemThuNangCao/TaiNguyen/poi-3.14.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

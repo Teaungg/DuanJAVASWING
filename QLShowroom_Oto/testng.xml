@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.source.dao.test.UsersDAOTest"/>
+      <class name="com.source.dao.test.ChamCongDAOTest"/>
+      <class name="com.source.dao.test.HopDongDAOTest"/>
+      <class name="com.source.dao.test.GioHangDAOTest"/>
+      <class name="com.source.dao.test.SanPhamDAOTest"/>
+      <class name="com.source.dao.test.NhanVienDAOTest"/>
+      <class name="com.source.dao.test.KhachHangDAOTest"/>
+      <class name="com.source.dao.test.HoaDonDAOTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
